@@ -1,5 +1,6 @@
 import java.util.*;
 
+
 public class ObjectSortingApp {
 	
 	public static <T> T[] sort(T[] list, Comparator<T> comparator){
